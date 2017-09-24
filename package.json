@@ -1,0 +1,27 @@
+{
+  "name": "pdf-fonts",
+  "version": "1.0.0",
+  "description": "this module to host diff pdf fonts for pdfmake module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBenzahia/pdf-fonts.git"
+  },
+  "keywords": [
+    "pdfmake",
+    "pdfkit",
+    "nodejs",
+    "es6",
+    "pdf",
+    "fonts"
+  ],
+  "author": "Lakhdar Benzahia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LBenzahia/pdf-fonts/issues"
+  },
+  "homepage": "https://github.com/LBenzahia/pdf-fonts#readme"
+}
